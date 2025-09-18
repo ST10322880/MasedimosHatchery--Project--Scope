@@ -11,7 +11,7 @@ Signature of Sponsor/Client:  |
 
 Document Change Control  | |
 ------------- | -------------
-Project Sponsor/ Client:  | Johannah Sekgalakane  
+Revision Date  | Date of Issue
 
 
 
