@@ -204,9 +204,9 @@ Thank you for reviewing the project scope statement document that has been provi
 
 Declaration
 I, the undersigned, confirm that I:
-•	Have reviewed the project scope statement presented.
-•	Approve the project scope statement for use in the Massimo Hatchery Management and Sales System project.
-•	Authorize the project team to proceed using the project scope.
+*	Have reviewed the project scope statement presented.
+*	Approve the project scope statement for use in the Massimo Hatchery Management and Sales System project.
+*	Authorize the project team to proceed using the project scope.
 
 Client Signature: 
 
