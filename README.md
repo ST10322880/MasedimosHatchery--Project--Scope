@@ -6,12 +6,14 @@ Project Sponsor/ Client:  | Johannah Sekgalakane
 Project Manager:  | Rudado Pamacheche
 Start Date:  2 August 2025  | End Date: 3 November 2025
 Signature of Sponsor/Client:  | 
-                                                                                                                                                                                                                 
-
-
-Document Change Control  | |
-------------- | -------------
-Revision Date  | Date of Issue
+                                                                                                                                                                  
+Document Change Control | Right aligned Header | Center aligned Header | 
+| :--- | ---: | :---:
+**Revision Date**  | **Date of Issue** | **Author’s** | **Brief Description of change**
+09/11/2025  | 2025/09/2025 | Rudado Pamacheche |  * I have added additional information to customer management, order tracking organisational requirements, security, performance and usability. 
+Content Cell  | Content Cell | Content Cell | Content Cell
+Content Cell  | Content Cell | Content Cell | Content Cell
+Content Cell  | Content Cell | Content Cell | Content Cell
 
 
 
@@ -49,8 +51,77 @@ The project team will create a web application for Masedimo Hatchery that is int
     * The system must allow the customers to browse the products available.
     * The new system must include a function that ensures that the customers have made deposits/payments of 50% of the original cost once the order has been placed.
 
+## Functional Requirements
+1.	**Inventory Management System**
+     * The system must automatically keep track of stock levels of eggs, chicks and chickens in real-time.
+     * The system should allow the client to manually manage inventory and stock levels as the products are ordered.
+     * The system shall be efficient in storing, tracking the business’s stocks, which are chickens, eggs and chicks.
+     * The system must be efficient in storing supplier information.
+
+2.	**Poultry Management System**
+     * The system must keep track of the number of eggs that have hatched and have not hatched.
+     * The system should keep the data in the database for 5 years.
+     * The system must contain and manage each supplier’s details.
+     * The system should track which suppliers' eggs are the best and in which season.
+
+3.	**Customer Management System**
+    * The system should be able to store customer details.
+    * The system should be able to manage customer information.
+    * The system should allow users to upload their proof of payment to the administrator.
+    * The system should allow the customer to create an account if they do not have one.
+    * The system should allow the customer to sign in before making any purchases.
+    * The system shall allow the customers to view their order history and details.
+    * The system should allow the customer to browse the products available.
+
+4.	**Order Tracking**
+     * The system must be able to track a customer's orders in real-time.
+     * The system must track the status of the orders in real-time.
+     * The software should indicate the type of product purchased.
+     * The system should send notifications to the administrator when an order is ready and when the customer has not collected their order on time.
+     * The system should send notifications to the customer to indicate that their orders are ready.
+     * The system should have a delivery system.
 
 
+5.	**System Integration**
+      * The system should integrate the order tracking system, customer management system and the inventory management system.
+      * The system should integrate the order tracking system with the inventory management system to reflect stock levels accurately.
+
+
+
+6.	**Supplier management system**
+      * The system should be able to store suppliers’ details.
+      * The system should track which suppliers' eggs are the best and in which season.
+      * The system should track the frequency and reliability of their supply.
+
+
+## Non-Functional Requirements
+7.	**Security**
+     * The system shall ensure that user data and payments made on the application platform are protected and secure through encryption.
+     * The system shall control and restrict customer access to sensitive hatchery areas or information.
+
+
+8.	**Scalability**
+    * The system should be able to handle an increasing number of users, payments and inventory as the business grows.
+      
+9.	**Performance**
+     * The system shall keep the customer’s data in the database for five years.
+     * The system shall generate a hatch rate report every month.
+     * The transactions must be kept on record until the order is completed successfully.
+
+10.	**Usability**
+    * The system should have an intuitive user interface that requires minimal training for end-users.
+    * It should provide clear error messages and guidance for resolving issues.
+    * The system should include information about the business
+    * The system should have product images.
+    * The system shall allow the administrators to post announcements or special offers to the website.
+
+11.	**Compliance**
+    * The system must comply with relevant data protection regulations, such as GDPR or HIPAA, depending on the industry.
+    * It should provide audit trails and logs for regulatory reporting.
+
+
+12.	**Maintainability**
+     * The system should be designed for easy maintenance, with modular components that can be updated independently.
 
 
 
