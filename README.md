@@ -123,7 +123,95 @@ The project team will create a web application for Masedimo Hatchery that is int
 12.	**Maintainability**
      * The system should be designed for easy maintenance, with modular components that can be updated independently.
 
+## Deliverables
+*	Project Plan Document
+*	Project Proposal Document
+*	Requirements Specification Document
+*	Communication Plan
+*	Project Prototype
+*	A functional application with comprehensive data on the products that are available for purchase, which are the chicks, chickens and poultry products.
+*	A profile page that contains all of their customers’ details.
 
+
+## Exclusion
+ * The application does not include tracking chicken feed as well as chick health and nutrition.
+ * The system does not include monitoring chick development and manage incubation conditions.
+
+## Schedule 
+First Header  | Second Header
+------------- | -------------
+Project Initiation (Phase 1)  | 15 August 2025
+Project Planning (Phase 2)  | 31 August 2025
+Designing and Development of system (Phase 3)  | 25 October 2025
+Deployment and Maintenance (Phase 4)  | 30 October 2025
+Closing of Project (Final Phase)  | 3 November 2025
+
+
+## Constraints & limitations
+*	The prototype should be completed by mid-September 2025.
+*	The project should be completed no later than 3 November 2025.
+*	The estimated budget for the project must be R850 000.
+*	The software must not contain any information about the chickens enclosure which is where they are growing.
+
+## Assumptions
+*	Project team members would have access to the tools they need to execute their respective tasks on schedule.
+*	All tasks will be completed within the agreed schedule.
+*	Stakeholders will provide timely feedback and approvals throughout the project.
+*	The project will adhere to all the relevant regulations and standards.
+
+## Approach
+To identify and provide solutions to enhance the business processes:
+  * Conduct stakeholder interviews to collect requirements.
+  * Conduct research and suggest appropriate IT solutions (software for the client, which is a software application, and a poultry management system).
+  * After all information has been gathered, a schedule and implementation plan should be created.
+
+
+## Acceptance Criteria 
+ * Indicate that the chicks have been vaccinated.
+ * Provide real-time data analysis for performance optimisation and maintain accurate records for inventory and farm operations.
+ * There should be compliance with industry standards to ensure high productivity and quality
+ * The system must ensure continuous improvement and sustainability practices.
+ * The system should have user-friendly interfaces.
+
+
+## Risks
+*	Not having a good hatch rate.
+*	Hatching chicks that are not equivalent to or more than the customer demand.
+*	Biohazards from handling eggs and chicks.
+*	Disease outbreaks can occur if not careful.
+*	Climate change can impact animal health.
+*	Project being deployed later than the schedule
+*	The system being unable to access third-party resources like payments.
+
+
+## Desired Outcomes
+*	Providing a secure and efficient software application
+*	Provide a stable, secure and efficient poultry management system.
+*	Develop a stable and secure customer management system.
+*	The new system must provide an efficient order tracking system.
+*	An efficient IT system that is integrated with the other functions within the business, whilst ensuring that the system that has been implemented is also cost-effective.
+
+# Project Scope Statement Approval Declaration Form
+
+**Client Name:** Katlego Sekgalakane
+
+**Business Name:** *Masedimo Hatchery*
+
+**Project Title:** *Masedimo Hatchery Management and Sales System*
+
+Dear Client,
+Thank you for reviewing the project scope statement document that has been provided. Please complete and sign this form to formally confirm that the contents in the project scope are correct.
+
+Declaration
+I, the undersigned, confirm that I:
+•	Have reviewed the project scope statement presented.
+•	Approve the project scope statement for use in the Massimo Hatchery Management and Sales System project.
+•	Authorize the project team to proceed using the project scope.
+
+Client Signature: 
+
+**Full Name:** 		Katlego Sekgalakane				
+**Date:** 2025/09/13
 
 
 
