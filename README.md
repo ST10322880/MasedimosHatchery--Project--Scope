@@ -7,13 +7,11 @@ Project Manager:  | Rudado Pamacheche
 Start Date:  2 August 2025  | End Date: 3 November 2025
 Signature of Sponsor/Client:  | 
                                                                                                                                                                   
-Document Change Control | Right aligned Header | Center aligned Header | 
-| :--- | ---: | :---:
+Document Change Control |   |  |  |
+| ------------- | ------------- | ------------- |  ------------- |
 **Revision Date**  | **Date of Issue** | **Author’s** | **Brief Description of change**
-09/11/2025  | 2025/09/2025 | Rudado Pamacheche |  * I have added additional information to customer management, order tracking organisational requirements, security, performance and usability. 
-Content Cell  | Content Cell | Content Cell | Content Cell
-Content Cell  | Content Cell | Content Cell | Content Cell
-Content Cell  | Content Cell | Content Cell | Content Cell
+09/11/2025  | 2025/09/2025 | Rudado Pamacheche | - I have added additional information to customer management, order tracking organisational requirements, security, performance and usability. - I have also added a supplier management system requirements.|
+ 
 
 
 
