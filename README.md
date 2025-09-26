@@ -5,7 +5,7 @@ Project Name:  | Masedimo Hatchery poultry management system
 Project Sponsor/ Client:  | Johannah Sekgalakane  
 Project Manager:  | Rudado Pamacheche
 Start Date:  2 August 2025  | End Date: 3 November 2025
-Signature of Sponsor/Client:  | 
+Signature of Sponsor/Client:  |  
                                                                                                                                                                   
 Document Change Control |   |  |  |
 | ------------- | ------------- | ------------- |  ------------- |
